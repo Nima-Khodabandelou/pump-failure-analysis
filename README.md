@@ -28,5 +28,6 @@ A manufacturing plant is experiencing premature failures of critical hydraulic p
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/pump-failure-analysis.git
+git clone https://github.com/Nima-Khodabandelou/pump-failure-analysis.git
+
 cd pump-failure-analysis
